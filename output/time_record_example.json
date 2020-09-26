@@ -1,0 +1,41 @@
+{
+    "version": 3,
+    "backups": [
+        {
+            "name": "Event 8",
+            "webhookUrl": "https://discordapp.com/api/webhooks/735370644858077244/IxHapktYAdoEPCG34sqy6uF2d5ZIrJ0mMW4ILDFVec2dGkyd0dHeUunf4BH8kyrx_VV0",
+            "message": {
+                "embeds": [
+                    {
+                        "title": "Event #8",
+                        "color": 16754513,
+                        "fields": [
+                            {
+                                "name": "Track:",
+                                "value": "Demon King's Invitation (Tomb)"
+                            },
+                            {
+                                "name": "Event Period",
+                                "value": "9/14 - 9/21"
+                            },
+                            {
+                                "name": "Prize",
+                                "value": "Fastest Player: **Weekly Dominator**\nMost Improved: **Weekly Genius**"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Fastest Player",
+                        "description": "**0.** <@!2222222222> - 0:01:15.07\n**1.** <@!33333333333> - 0:01:20.12\n**2.** <@!1111111111> - 0:01:44.00",
+                        "color": 16754513
+                    },
+                    {
+                        "title": "Most Improved",
+                        "description": "**0.** <@!2222222222> - 0:00:16.05\n**1.** <@!1111111111> - 0:00:04.73\n**2.** <@!33333333333> - 0:00:00.00",
+                        "color": 16754513
+                    }
+                ]
+            }
+        }
+    ]
+}
